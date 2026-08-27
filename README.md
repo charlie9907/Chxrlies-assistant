@@ -1,4 +1,4 @@
-# VaeBot - A Multi-Purpose Discord Bot
+# Chxrlie's Assistant - A Multi-Purpose Discord Bot
 
 ## Includes
 - Full warn/mute based moderation system
